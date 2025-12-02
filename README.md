@@ -304,5 +304,3 @@ Created by **Your Name** — replace with your name and links.
 ---
 
 
-> * create a `README` that includes demo GIFs / screenshot placeholders
-> * produce a `CONTRIBUTING.md`, `ISSUE_TEMPLATE.md`, and sample `WORKFLOW` for CI
