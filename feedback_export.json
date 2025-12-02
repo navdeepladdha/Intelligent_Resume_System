@@ -1,0 +1,20 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 5,
+      "usability_score": 5,
+      "feature_satisfaction": 5,
+      "missing_features": "every feature navdeep well done\n",
+      "improvement_suggestions": "may be use accessibility feauture also like voice to text ",
+      "user_experience": "its good ",
+      "timestamp": "2025-11-24 00:47:19.248688"
+    }
+  ],
+  "sqlite_sequence": [
+    {
+      "name": "feedback",
+      "seq": 1
+    }
+  ]
+}
